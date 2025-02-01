@@ -20,7 +20,7 @@ function Stats() {
                     <img src='media/images/Ecosystem.png' alt='Ecosystem' style={{width:"85%"}} />
                     <div className='text-center'>
                         <a href='/product' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i className="fa-solid fa-arrow-right"></i></a>
-                        <a href=" http://localhost:5173" style={{textDecoration:"none"}}>Try Kite demo <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href=" https://full-stack-treding-platform-dashboard.onrender.com/" style={{textDecoration:"none"}}>Try Kite demo <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

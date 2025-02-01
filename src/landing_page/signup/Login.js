@@ -45,7 +45,7 @@ export const Login = () => {
 
         setUser({ email: "", password: "" });
         toast.success("Login successful");
-        window.location.href = "http://localhost:5173"; // Redirect to the desired external URL      } else {
+        window.location.href = "https://full-stack-treding-platform-dashboard.onrender.com/"; // Redirect to the desired external URL      } else {
 
       } else {
         toast.error(

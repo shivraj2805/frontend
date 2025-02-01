@@ -55,7 +55,7 @@ export const Signup = () => {
       if (data && data.token) {
         storeTokenInLS(data.token);
         toast.success("Registration successful!");
-        window.location.href = "http://localhost:5173"; // Redirect to the desired external URL      } else {
+        window.location.href = "https://full-stack-treding-platform-dashboard.onrender.com/"; // Redirect to the desired external URL      } else {
         toast.error("Registration failed! Please try again.");
       }
     } catch (error) {
