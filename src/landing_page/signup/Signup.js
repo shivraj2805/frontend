@@ -15,7 +15,7 @@ export const Signup = () => {
   const navigate = useNavigate();
   const { storeTokenInLS } = useAuth();
 
-  const backendUrl = process.env.REACT_APP_BACKEND_URL||'http://localhost:3000';
+  const backendUrl = process.env.REACT_APP_BACKEND_URL||'https://full-stack-trading-platform-backend.onrender.com';
 
   const URL = `${backendUrl}/api/auth/register`; 
   console.log("Registration URL:", URL); // Log the URL to confirm it's correct
