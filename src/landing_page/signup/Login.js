@@ -13,7 +13,7 @@ export const Login = () => {
   const navigate = useNavigate();
   const { storeTokenInLS} = useAuth();
 
-  back_url=process.env.REACT_APP_BACKEND_URL || "https://full-stack-trading-platform-backend.onrender.com";
+  back_url="https://full-stack-trading-platform-backend.onrender.com";
 
   const URL = `${back_url}/api/auth/login`;
 
