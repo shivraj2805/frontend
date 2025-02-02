@@ -17,10 +17,10 @@ function Footer() {
               />
               <h6 className="mt-3">
                 <i className="fa-solid fa-phone" style={{ height: "10px" }}></i>
-                +91 88 8888 8888
+                +91 9834814644
               </h6>
               <p className="mt-3">
-                © 2010 - 2024, Zerodha Broking Ltd. <br />
+                © 2010 - 2025,  Broking Ltd. <br />
                 All rights reserved.
               </p>
               <div>
@@ -47,7 +47,7 @@ function Footer() {
                     &#xf082;
                   </i>
                 </a>
-                <a href="links" className="text-muted-hover">
+                <a href="https://www.instagram.com/its_shiv2805" className="text-muted-hover">
                   {" "}
                   <i
                     style={{ fontSize: "24px", padding: "15px" }}
@@ -64,7 +64,7 @@ function Footer() {
                     className="fa-brands fa-whatsapp"
                   ></i>
                 </a>
-                <a href="links" className="text-muted-hover">
+                <a href="https://in.linkedin.com/in/shivrajdarekar" className="text-muted-hover">
                   {" "}
                   <i
                     style={{ fontSize: "24px", padding: "15px" }}

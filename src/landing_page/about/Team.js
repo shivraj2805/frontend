@@ -10,39 +10,39 @@ export  function Team() {
         <div className="text-center">
           <img
             className="rounded-circle img-fluid"
-            src="media/images/nithinkamath.jpg"
+            src="media/images/1234.jpg"
             alt="about"
             width="300"
             height="300"
             srcSet=""
           />
-          <p className="mt-4 fs-4">Nithin Kamath</p>
+          <p className="mt-4 fs-4">Shivraj Darekar</p>
           <p>Founder, CEO</p>
         </div>
         <div>
           <p style={{ fontSize: "17px", marginTop: "30px" }}>
-            Nithin bootstrapped and founded Zerodha in 2010 to overcome the
-            <br /> hurdles he faced during his decade long stint as a trader.
-            Today,
+          Shivraj Darekar is a skilled web developer and a student at VIIT,
+           where  <br /> he actively engages in various development projects. 
             <br />
-            Zerodha has changed the landscape of the Indian broking industry.
+            He specializes in the MERN stack and has strong expertise in frontend 
+            <br/> technologies like HTML5, CSS, Bootstrap, JavaScript, and React.
           </p>
 
           <p style={{ fontSize: "17px", marginTop: "30px" }}>
-            He was named one of the “Top 10 Businessmen to Watch Out for in
-            <br /> 2016 in India” by The Economic Times for pioneering and
-            scaling <br />
-            discount broking in India.
+          He demonstrates leadership through his involvement in project development 
+            <br /> and team collaborations, showcasing his ability to guide peers in achieving 
+            <br />
+            common goals.
           </p>
           <p style={{ fontSize: "17px", marginTop: "30px" }}>
-            Playing basketball is his zen.
+          Shivraj has a solid foundation in Data Structures and Algorithms (DSA)
           </p>
           <p style={{ fontSize: "17px", marginTop: "30px" }}>
             Connect on{" "}
             <span>
-              <a id="links" href="https://nithinkamath.me/" style={{textDecoration:"none"}}>
-                HomePage / TradingQnA / Twitter
-              </a>
+            <a id="links" href="https://in.linkedin.com/in/shivrajdarekar" style={{textDecoration:"none"}}>
+            LinkedIn
+             </a>
             </span>
           </p>
         </div>
